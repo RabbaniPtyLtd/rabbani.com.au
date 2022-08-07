@@ -47,7 +47,7 @@ theme = "raditian-free-hugo-theme"
   weight = 2
 
   [[menu.footer]]
-  name = "Portfolio"
+  name = "TechWork"
   URL = "#portfolio"
   weight = 3
 

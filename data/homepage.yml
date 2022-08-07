@@ -20,10 +20,10 @@ showcase:
     - icon: "linkedin"
       URL: "www.linkedin.com/in/mohdrabbani/"
 
-    - icon: "github"
-      URL: "https://github.com/askrabz"
+#    - icon: "github"
+#      URL: "https://github.com/askrabz"
 
-    - icon: "whatsapp"
+    - icon: "dribbble"
       URL: "https://wa.me/message/IY7REKYEJ4WTG1"
 
  #   - icon: "dribbble"
@@ -71,7 +71,7 @@ about:
 
 # education
 education:
-  enable: true
+  enable: false
   title: "Qualifications"
   items:
     - university: "London Metropolitan University"
@@ -151,7 +151,7 @@ client_and_work:
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
-        URL: "#"
+    #    URL: "#"
       image:
         x: "img/works/RPL-CLASS4SSW.png"
         _2x: "img/works/RPL-CLASS4SSW.png"
@@ -162,7 +162,7 @@ client_and_work:
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
-        URL: "#"
+    #    URL: "#"
       image:
         x: "img/works/RPL-CloudPBXv2.png"
         _2x: "img/works/RPL-CloudPBXv3.png"
@@ -173,7 +173,7 @@ client_and_work:
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
-        URL: "#"
+    #    URL: "#"
       image:
         x: "img/works/RPL-SIP-RM-PROXY.png"
         _2x: "img/works/RPL-SIP-RM-PROXY.png"
@@ -184,7 +184,7 @@ client_and_work:
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
-        URL: "#"
+  #      URL: "#"
       image:
         x: "img/works/sipcapture1.gif"
         _2x: "img/works/sipcapture1.gif"
@@ -195,7 +195,7 @@ client_and_work:
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
-        URL: "#"
+  #      URL: "#"
       image:
         x: "img/works/RPL-ZBX-5.png"
         _2x: "img/works/RPL-ZBX-5.png"
