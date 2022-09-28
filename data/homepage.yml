@@ -16,9 +16,9 @@ showcase:
  #   btnText: "Contact"
  #   URL: "https://wa.me/message/IY7REKYEJ4WTG1"
 
-  socialLinks:
-    - icon: "linkedin"
-      URL: "https://www.linkedin.com/in/mohdrabbani"
+#  socialLinks:
+#    - icon: "linkedin"
+#      URL: "https://www.linkedin.com/in/mohdrabbani"
 
 #    - icon: "github"
 #      URL: "https://github.com/askrabz"
