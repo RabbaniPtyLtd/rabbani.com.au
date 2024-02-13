@@ -63,7 +63,7 @@ about:
     <p class="lead">- Consultation</p>
   '
   button:
-    icon: "icon-skype-fill"
+    icon: "icon-smile-fill"
     btnText: "Succeed Today ->"
     URL: "https://join.skype.com/invite/VHDyerIVufBN"
   image:
