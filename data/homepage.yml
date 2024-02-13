@@ -65,7 +65,7 @@ about:
   button:
     icon: "icon-smile-fill"
     btnText: "Succeed Today ->"
-    URL: "www.linkedin.com/in/mohdrabbani/"
+    URL: "https://www.linkedin.com/in/mohdrabbani/"
   image:
     x: "img/who-am-i/IMG-1017-modified.png"
     _2x: "img/who-am-i/IMG-1017-modified.png"
