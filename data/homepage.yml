@@ -63,9 +63,9 @@ about:
     <p class="lead">- Consultation</p>
   '
   button:
-    icon: "icon-smile-fill"
+    icon: "icon-skype-fill"
     btnText: "Succeed Today ->"
-    URL: "https://www.linkedin.com/in/mohdrabbani/"
+    URL: "https://join.skype.com/invite/VHDyerIVufBN"
   image:
     x: "img/who-am-i/IMG-1017-modified.png"
     _2x: "img/who-am-i/IMG-1017-modified.png"
@@ -91,7 +91,7 @@ experience:
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
-    URL: "www.linkedin.com/in/mohdrabbani/"
+    URL: "https://www.linkedin.com/in/mohdrabbani/"
  # button2:
  #   icon: "icon-profile-fill"
  #   btnText: "Download My Resume"
