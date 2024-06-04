@@ -56,7 +56,7 @@ about:
    '
     <p class="lead"><h3><left>Delivering Excellence & Success</left></h3></p>
     <p class="lead"><center>Proficient in Voice over Internet Protocol (VoIP), Telecommunications, and Unified Communication Technologies.</center></p>
-    <p class="lead"><b>Leveraging 19+ years of experience in:</b></p>
+    <p class="lead"><b>Leveraging 20+ years of experience in:</b></p>
     <p class="lead">- Project Management</p>
     <p class="lead">- Service Delivery</p>
     <p class="lead">- Engineering Management</p>
@@ -72,16 +72,32 @@ about:
 
 # education
 education:
-  enable: false
-  title: "Qualifications"
+  enable: true
+  title: "Certifications"
   items:
-    - university: "London Metropolitan University"
-      year: "2000-2003"
-      degree: "Bachelor of Science (BSc) with Honors, Computing and Information Technology"
+    - university: "Microsoft 365 Certified"
+      year: "2024"
+      degree: "Collaboration Communications Systems Engineer Associate"
 
-    - university: "Columbus University"
-      year: "2004-2006"
-      degree: "Masters in Business Administration (MBA) Major in Communications"
+    - university: "Microsoft Teams Rooms"
+      year: "2024"
+      degree: "Technical Solutions Professional"
+
+    - university: "3CX Certified"
+      year: "2024"
+      degree: "Advanced"
+
+    - university: "Kamailio Certificate"
+      year: "2024"
+      degree: "Advanced Training"
+
+    - university: "AXELOS ITIL® v3 Certified"
+      year: "2016"
+      degree: "Foundation"
+
+    - university: "AXELOS PRINCE 2® Certified"
+      year: "2017"
+      degree: "Foundation"
 
 # experience
 experience:
@@ -98,7 +114,7 @@ experience:
  #   URL: "#"
 
   items:
-    - title: "19+ Years"
+    - title: "20+ Years"
       company: "IT, Telecom, & Managed Services"
       duration: "Exprience"
 
@@ -147,6 +163,17 @@ client_and_work:
       alt: "Teams"
 
   works:
+    - title: "SMS Platform"
+      description: "A SMS Platform with many enterprise-class features. Enabled SMS and MMS messaging on your existing phone number & built to be easily customized to meet the specific needs of messaging exchange growing business"
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Case Study"
+    #    URL: "#"
+      image:
+        x: "img/works/RPL-SMS-HID.png"
+        _2x: "img/works/RPL-SMS-HID.png"
+      is_even: false
+
     - title: "Class 4 - SoftSwitch"
       description: "A carrier-grade Class 4 SIP Soft Switch with integrated real-time billing and intelligent routing subsystem. Suitable for Call Termination Service (CTS) and Transiting voice traffic."
       button:
@@ -165,7 +192,7 @@ client_and_work:
         btnText: "Case Study"
     #    URL: "#"
       image:
-        x: "img/works/RPL-CloudPBXv2.png"
+        x: "img/works/RPL-CloudPBXv3.png"
         _2x: "img/works/RPL-CloudPBXv3.png"
       is_even: false
 
