@@ -169,15 +169,15 @@ client_and_work:
         _2x: "img/works/RPL-CloudPBXv3.png"
       is_even: false
 
-    - title: "RM.SIP Proxy for Microsoft Teams"
-      description: "SIP RM.Proxy a.k.a Bespoke SBC for Microsoft Team - A high performance SIP proxy server designed to handle and dispatch SIP transactions between Microsoft Teams and any carrier grade class 4/5 soft switch or PBX. Seamless interconnection with effortless deployment. Supports TLS1.2+ encryption. Suitable for redundancy, load sharing & SBC."
+    - title: "Ribbon SBC for Microsoft Teams"
+      description: "Ribbon SBC for Microsoft Team - A high performance SIP proxy server designed to handle and dispatch SIP transactions between Microsoft Teams and any carrier grade class 4/5 soft switch or PBX. Seamless interconnection with effortless deployment. Supports TLS1.2+ encryption. Suitable for redundancy, load sharing & SBC."
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
     #    URL: "#"
       image:
-        x: "img/works/RPL-SIP-RM-PROXY.png"
-        _2x: "img/works/RPL-SIP-RM-PROXY.png"
+        x: "img/works/RPL-SBC-ONPREM-PBX-INTEGRATION-1024x327.jpeg"
+        _2x: "img/works/RPL-SBC-ONPREM-PBX-INTEGRATION-1024x327.jpeg"
       is_even: true
 
     - title: "Monitoring & Analyzer"
